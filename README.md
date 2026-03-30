@@ -33,10 +33,6 @@ This file collects the exact experiment results provided in the rebuttal draft, 
 
 ## 2. ReduMIS preliminary time-to-first-solution results
 
-- These runs are preliminary/incomplete.
-
-- Metric reported: average time to first returned solution and average size of that first solution.
-
 | (n, p)         | avg_init_time_sec |
 |----------------|------------------:|
 | (2000, 0.3)    |        309.008750 |
