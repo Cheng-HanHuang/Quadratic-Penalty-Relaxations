@@ -22,24 +22,10 @@
 | 20000 | 2510.655000 | 2407.158750 | — |
 | 30000 | 3533.131250 | 4333.006667 | — |
 
-
-## 3. Open-pit mining: ancestor vs parent formulation
-
-- Instances: newman1 and kd
-
-- Each mode was run 200 times per instance.
-
-- Full result table:
-
+### Table C: Ancestor VS Parent Formulation for Open-Pit Mining
 | instance | mode | mean_steps | median_steps | min_steps | max_steps | mean_time_sec | median_time_sec | min_time_sec | max_time_sec |
 | ---      | ---  |  ---         | ---          | ---       | ---       | ---           | ---             | ---          | ---          |
 | newman1 | ancestor | 1092.165 | 1091 | 693 | 1557 | 0.988636 | 0.97643 | 0.560832 | 1.884777 |
 | newman1 | parent | 1018.605 | 967 | 477 | 1846 | 0.747483 | 0.712712 | 0.340681 | 2.177611 |
 | kd | ancestor | 537.72 | 534 | 498 | 632 | 0.968356 | 0.959496 | 0.879048 | 1.833711 |
 | kd | parent | 517.77 | 516 | 462 | 644 | 0.443613 | 0.434604 | 0.377893 | 0.797381 |
-
-- `redumis_time_to_first_solution_preliminary.csv`
-
-- `openpit_parent_vs_ancestor_full_results.csv`
-
-- `openpit_runtime_summary.csv`
