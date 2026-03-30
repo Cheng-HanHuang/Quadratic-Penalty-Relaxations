@@ -14,8 +14,8 @@
 
 - Metric reported: average independent-set size returned within budget
 
-
-| (n,p) | PGD 0.3 | PGD 0.5 | PGD 0.7 | Gurobi 0.3 | Gurobi 0.5 | Gurobi 0.7 |
+| Optimizer||PGD |||Gurobi||
+| (n,p) | 0.3 |0.5 | 0.7 |  0.3 | 0.5 | 0.7 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2000 | 27 | 14.25 | 10 | 21.875 | 13.125 | 8.375 |
 | 4000 | 28.5 | 16 | 10.5 | 20.5 | 11.625 | 7.375 |
