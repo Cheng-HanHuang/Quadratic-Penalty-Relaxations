@@ -1,7 +1,7 @@
 ### Table A. Average MIS Solution Size of PGD and Gurobi Under 5 Minutes Time Budget on 8 Erdős–Rényi Instances.
 | Optimizer|PGD|PGD |PGD|Gurobi|Gurobi|Gurobi|
-| (n,p) | 0.3 |0.5 | 0.7 |  0.3 | 0.5 | 0.7 |
 | --- | --- | --- | --- | --- | --- | --- |
+| (n,p) | 0.3 |0.5 | 0.7 |  0.3 | 0.5 | 0.7 |
 | 2000 | 27 | 14.25 | 10 | 21.875 | 13.125 | 8.375 |
 | 4000 | 28.5 | 16 | 10.5 | 20.5 | 11.625 | 7.375 |
 | 6000 | 30.25 | 17.375 | 10.5 | 21.75 | 12.25 | 8 |
