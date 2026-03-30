@@ -1,3 +1,0 @@
-instance,ancestor_mean_time_sec,parent_mean_time_sec,absolute_overhead_sec,relative_slowdown_x,ancestor_strict_binary_feasible_rate,parent_strict_binary_feasible_rate
-newman1,0.988635664,0.74748278,0.241152884,1.322619985974794,1.0,0.0
-kd,0.968355895,0.443613282,0.5247426129999999,2.1828830070962573,1.0,1.0
