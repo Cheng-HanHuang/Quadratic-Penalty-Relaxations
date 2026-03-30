@@ -14,7 +14,7 @@
 
 - Metric reported: average independent-set size returned within budget
 
-### Table A. Average solution size of PGD and Gurobi under 5 minutes Time Budget on 8 Erdős–Rényi MIS Instances.
+### Table A. Average MIS Solution Size of PGD and Gurobi Under 5 Minutes Time Budget on 8 Erdős–Rényi Instances.
 | Optimizer|PGD|PGD |PGD|Gurobi|Gurobi|Gurobi|
 | --- | --- | --- | --- | --- | --- | --- |
 | (n,p) | 0.3 |0.5 | 0.7 |  0.3 | 0.5 | 0.7 |
