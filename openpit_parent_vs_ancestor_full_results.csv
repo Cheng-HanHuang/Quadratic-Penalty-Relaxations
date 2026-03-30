@@ -1,0 +1,5 @@
+instance,mode,runs,converged_kkt_rate,strict_binary_rate,strict_feasible_rate,strict_binary_feasible_rate,old_binary_rate,old_feasible_rate,old_binary_feasible_rate,mean_steps,median_steps,min_steps,max_steps,mean_time_sec,median_time_sec,min_time_sec,max_time_sec
+newman1,ancestor,200,1,1.0,1,1,1.0,1,1,1092.165,1091,693,1557,0.988635664,0.976430297,0.560832262,1.884777069
+newman1,parent,200,1,0.325,0,0,0.33,0,0,1018.605,967,477,1846,0.74748278,0.71271193,0.340681314,2.177611351
+kd,ancestor,200,1,1.0,1,1,1.0,1,1,537.72,534,498,632,0.968355895,0.959496379,0.879048109,1.833710909
+kd,parent,200,1,1.0,1,1,1.0,1,1,517.77,516,462,644,0.443613282,0.434604406,0.377892971,0.797381163
