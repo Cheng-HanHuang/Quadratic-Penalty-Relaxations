@@ -11,7 +11,7 @@
 | 30000 | 33.625 | 18.75 | 11.25 | 26.25 | 14.25 | 9.125 |
 | 40000 | 34.125 | 18.875 | 11.625 | 26.75 | 15.125 | 9.625 |
 
-### Table B. ReduMIS Preliminary Time-to-First-Solution Time
+### Table B. ReduMIS Preliminary Time-to-First-Solution Time in Seconds
 | n     | p = 0.3    | p = 0.5    | p = 0.7    |
 |-------|-----------:|-----------:|-----------:|
 | 2000  | 309.008750 | 327.442750 | 368.753375 |
