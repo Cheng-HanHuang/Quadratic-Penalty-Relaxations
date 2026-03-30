@@ -14,7 +14,7 @@
 
 - Metric reported: average independent-set size returned within budget
 
-### Performance Comparison of PGD and Gurobi under Fixed Time Budget on Erdős–Rényi MIS Instances
+### Table 1. Performance Comparison of PGD and Gurobi under Fixed Time Budget on Erdős–Rényi MIS Instances
 | Optimizer|PGD|PGD |PGD|Gurobi|Gurobi|Gurobi|
 | --- | --- | --- | --- | --- | --- | --- |
 | (n,p) | 0.3 |0.5 | 0.7 |  0.3 | 0.5 | 0.7 |
