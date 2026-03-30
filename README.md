@@ -1,7 +1,3 @@
-# Experiment tables for anonymous GitHub
-
-This file collects the exact experiment results provided in the rebuttal draft, reformatted for direct inclusion in an anonymous GitHub repository.
-
 ## 1. Fixed-budget MIS: PGD vs Gurobi
 
 - Problem: Maximum Independent Set (MIS)
