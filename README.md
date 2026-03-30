@@ -19,7 +19,7 @@ This file collects the exact experiment results provided in the rebuttal draft, 
 - Metric reported: average independent-set size returned within budget
 
 
-| n | pgd_size_p0.3 | pgd_size_p0.5 | pgd_size_p0.7 | gurobi_size_p0.3 | gurobi_size_p0.5 | gurobi_size_p0.7 |
+| (n,p) | PGD 0.3 | PGD 0.5 | PGD 0.7 | Gurobi 0.3 | Gurobi 0.5 | Gurobi 0.7 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2000 | 27 | 14.25 | 10 | 21.875 | 13.125 | 8.375 |
 | 4000 | 28.5 | 16 | 10.5 | 20.5 | 11.625 | 7.375 |
