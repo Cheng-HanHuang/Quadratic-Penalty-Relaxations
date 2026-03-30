@@ -1,19 +1,3 @@
-## 1. Fixed-budget MIS: PGD vs Gurobi
-
-- Problem: Maximum Independent Set (MIS)
-
-- Graph family: Erdős–Rényi graphs
-
-- Node sizes: n in {2000, 4000, 6000, 8000, 10000, 20000, 30000, 40000}
-
-- Edge densities: p in {0.3, 0.5, 0.7}
-
-- Number of instances per (n,p): 8
-
-- Time budget per instance: 5 minutes
-
-- Metric reported: average independent-set size returned within budget
-
 ### Table A. Average MIS Solution Size of PGD and Gurobi Under 5 Minutes Time Budget on 8 Erdős–Rényi Instances.
 | Optimizer|PGD|PGD |PGD|Gurobi|Gurobi|Gurobi|
 | --- | --- | --- | --- | --- | --- | --- |
