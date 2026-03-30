@@ -14,7 +14,7 @@
 
 - Metric reported: average independent-set size returned within budget
 
-### Table A. Performance Comparison of PGD and Gurobi under Fixed Time Budget on Erdős–Rényi MIS Instances. We evaluate graphs with node sizes n in {2000, 4000, 6000, 8000, 10000, 20000, 30000, 40000} and edge densities p in {0.3, 0.5, 0.7}. For each (n, p) pair, results are averaged over 8 randomly generated instances. Each method is given a fixed time budget of 5 minutes per instance. The reported metric is the average size of the independent set returned within the time budget.
+### Table A. Average solution size of PGD and Gurobi under 5 minutes Time Budget on 8 Erdős–Rényi MIS Instances.
 | Optimizer|PGD|PGD |PGD|Gurobi|Gurobi|Gurobi|
 | --- | --- | --- | --- | --- | --- | --- |
 | (n,p) | 0.3 |0.5 | 0.7 |  0.3 | 0.5 | 0.7 |
