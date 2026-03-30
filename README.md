@@ -22,7 +22,7 @@
 | 20000 | 2510.655000 | 2407.158750 | — |
 | 30000 | 3533.131250 | 4333.006667 | — |
 
-### Table C: Ancestor VS Parent Formulation for Open-Pit Mining
+### Table C. Ancestor VS Parent Formulation for Open-Pit Mining
 | instance | mode | mean_steps | median_steps | min_steps | max_steps | mean_time_sec | median_time_sec | min_time_sec | max_time_sec |
 | ---      | ---  |  ---         | ---          | ---       | ---       | ---           | ---             | ---          | ---          |
 | newman1 | ancestor | 1092.165 | 1091 | 693 | 1557 | 0.988636 | 0.97643 | 0.560832 | 1.884777 |
