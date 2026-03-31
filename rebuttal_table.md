@@ -11,6 +11,8 @@
 | 30000 | 33.625 | 18.75 | 11.25 | 26.25 | 14.25 | 9.125 |
 | 40000 | 34.125 | 18.875 | 11.625 | 26.75 | 15.125 | 9.625 |
 
+#
+
 ### Table B. ReduMIS Preliminary Time-to-First-Solution Time in Seconds.
 | (n,p)     | 0.3    | 0.5    | 0.7    |
 |-------|-----------:|-----------:|-----------:|
@@ -21,6 +23,8 @@
 | 10000 | 783.218250 | 1625.062625 | — |
 | 20000 | 2510.655000 | 2407.158750 | — |
 | 30000 | 3533.131250 | 4333.006667 | — |
+
+#
 
 ### Table C. Ancestor VS Parent Formulation for Open-Pit Mining.
 | instance | mode | mean_steps | median_steps | min_steps | max_steps | mean_time_sec | median_time_sec | min_time_sec | max_time_sec |
